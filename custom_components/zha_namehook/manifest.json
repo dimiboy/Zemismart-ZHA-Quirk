@@ -1,0 +1,8 @@
+{
+  "domain": "zha_namehook",
+  "name": "ZHA Device Name Change Hook",
+  "version": "1.0",
+  "requirements": [],
+  "dependencies": ["zha"],
+  "codeowners": []
+}
